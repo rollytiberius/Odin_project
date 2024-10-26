@@ -1,1 +1,0 @@
-const ceva = document.getAnimations
