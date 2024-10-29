@@ -1,0 +1,32 @@
+
+
+/* rule 1 */
+#subsection {
+  background-color: yellow;
+  color: blue;
+  font-size: 5rem;
+}
+/* rule 2 */
+.main #subsection {
+ background-color: beige;
+ color: red;
+}
+
+/* styles.css */
+
+#parent {
+  color: red;
+  width: 400px;
+  height: 500px;
+  background-color: aqua;
+  border: 2px solid black;
+}
+
+.child {
+  width: 200px;
+  background-color: green;
+  height: 200px;
+  color: blue;
+}
+
+
